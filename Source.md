@@ -1,1 +1,0 @@
-Adapted from here: https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/license.txt

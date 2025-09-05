@@ -8,7 +8,8 @@ class RomanNumbersConverterTest {
     RomanNumbersConverter uut = new RomanNumbersConverter();
 
     @Test
-    void convert_withInput_1_shouldReturn_I() {
-        assertEquals("I", uut.convert(1));
+    void convert_withInput_0_shouldReturn_emptyString() {
+        assertNotNull(uut.convert(0));
+        assertEquals("", uut.convert(0));
     }
 }

@@ -1,6 +1,6 @@
 ## Rechenregeln
 ### Additionsregel: Grundsätzlich werden Werte aufsummiert
-* XII = 5 + 1 + 1 = 6
+* XII = 5 + 1 + 1 = 7
 
 ### Subtraktionsregel: Wenn ein kleinerer Wert vor einem Größerem steht, dann wird jener abgezogen
 * IV = 5 – 1 = 4 oder XL = 50 – 10 = 40
